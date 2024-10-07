@@ -68,3 +68,6 @@ console.log(name1===name2)
 
 if(name2.toLowerCase()===name1)
   console.log(true);
+
+//oppure
+console.log(name1.toLowerCase===name2.toLowerCase)
